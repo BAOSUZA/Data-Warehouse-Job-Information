@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Job Infomation.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Company.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Job Infomation.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Speciality.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Speciality.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Skill.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Job Skill.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Benefit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Job Benefit.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Industry.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Job Industry.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Salary.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Job Salary.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company Industry.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Company Industry.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Employee Count.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{49D041F2-B310-4803-B989-1811EF046ABB}|SSAS-Project.dwproj|solutionrelative:Dim Employee Count.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job Infomation.cube [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.cube",
+              "RelativeDocumentMoniker": "Job Infomation.cube",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.cube [Design]",
+              "RelativeToolTip": "Job Infomation.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:31:58.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Speciality.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Speciality.dim",
+              "RelativeDocumentMoniker": "Dim Speciality.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Speciality.dim [Design]",
+              "RelativeToolTip": "Dim Speciality.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Job Skill.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Skill.dim",
+              "RelativeDocumentMoniker": "Dim Job Skill.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Skill.dim [Design]",
+              "RelativeToolTip": "Dim Job Skill.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Job Benefit.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Benefit.dim",
+              "RelativeDocumentMoniker": "Dim Job Benefit.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Benefit.dim [Design]",
+              "RelativeToolTip": "Dim Job Benefit.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Job Industry.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Industry.dim",
+              "RelativeDocumentMoniker": "Dim Job Industry.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Industry.dim [Design]",
+              "RelativeToolTip": "Dim Job Industry.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:25.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Job Salary.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Salary.dim",
+              "RelativeDocumentMoniker": "Dim Job Salary.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Job Salary.dim [Design]",
+              "RelativeToolTip": "Dim Job Salary.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Company Industry.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company Industry.dim",
+              "RelativeDocumentMoniker": "Dim Company Industry.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company Industry.dim [Design]",
+              "RelativeToolTip": "Dim Company Industry.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:16.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Company.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company.dim",
+              "RelativeDocumentMoniker": "Dim Company.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Company.dim [Design]",
+              "RelativeToolTip": "Dim Company.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:11.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dim Employee Count.dim [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Employee Count.dim",
+              "RelativeDocumentMoniker": "Dim Employee Count.dim",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Dim Employee Count.dim [Design]",
+              "RelativeToolTip": "Dim Employee Count.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:32:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Job Infomation.dsv [Design]",
+              "DocumentMoniker": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.dsv",
+              "RelativeDocumentMoniker": "Job Infomation.dsv",
+              "ToolTip": "F:\\H\u1ECDc T\u1EADp\\HK1-2 2024-2025 (N\u0103m t\u01B0)\\Kho d\u1EEF li\u1EC7u\\SSAS-Project\\Job Infomation.dsv [Design]",
+              "RelativeToolTip": "Job Infomation.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-09T09:31:36.158Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
